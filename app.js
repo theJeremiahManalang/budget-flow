@@ -6,6 +6,7 @@ const CONFIG = {
   SHEET_NAME: 'Sheet1',
   RANGE: 'Sheet1!A2:F',
   PIN: '1234', // Change this to your PIN
+  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbwgzaacJLyzFPGxGudrkuALkM0H04DsB-pYNJYgJ45zME24eqI_yC7KJ1nzpFo3Ob4IXQ/exec', // Add this
 };
 // ──────────────────────────────────────────────────────────
 
